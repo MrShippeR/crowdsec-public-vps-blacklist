@@ -20,5 +20,5 @@ Script is configured to block IPs for 24h and to be run by CRON daily. Example i
 ## Thanks
 List is based on GitHub project [tobilg/public-cloud-provider-ip-ranges](https://github.com/tobilg/public-cloud-provider-ip-ranges?tab=readme-ov-file)
 
-Firewall rules are aplied by program [CrowdSec](https://www.crowdsec.net/blog/crowdsec-waf-the-collaborative-future-of-web-application-security?gad_campaignid=22821348674). Must be configured to block on firewall before use.
+Firewall rules are aplied by program [CrowdSec](https://www.crowdsec.net/blog/crowdsec-waf-the-collaborative-future-of-web-application-security?gad_campaignid=22821348674). Must be configured to block on [firewall](https://docs.crowdsec.net/u/bouncers/firewall/) before use.
 
